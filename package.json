@@ -1,10 +1,11 @@
 {
   "author": "Christopher Karper <Christopher.Karper@gmail.com>",
   "name": "asar-fs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Rudimentary fs.js and module.js patches to allow loading files from an atom/asar archive",
   "license": "MIT",
   "main": "index.js",
+  "typings": "./lib/asar-fs.d.ts",
   "repository": {
     "type": "git",
     "url": "git://github.com/ckarper/asar-fs.git"
